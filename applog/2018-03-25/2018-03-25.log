@@ -1,0 +1,9 @@
+2018-03-25 21:02:28 -Starting TestDemo on DESKTOP-GG1MENN with PID 6216 (started by Administrator in E:\chenliang2018\bootdo)
+2018-03-25 21:02:28 -Running with Spring Boot v1.5.6.RELEASE, Spring v4.3.10.RELEASE
+2018-03-25 21:02:28 -The following profiles are active: dev
+2018-03-25 21:02:46 -ApplicationContext registed-->org.springframework.web.context.support.GenericWebApplicationContext@6f19ac19: startup date [Sun Mar 25 21:02:28 CST 2018]; root of context hierarchy
+2018-03-25 21:02:59 -==>  Preparing: select `id`,`cron_expression`,`method_name`,`is_concurrent`,`description`,`update_by`,`bean_class`,`create_date`,`job_status`,`job_group`,`update_date`,`create_by`,`spring_bean`,`job_name` from sys_task order by id desc 
+2018-03-25 21:02:59 -==> Parameters: 
+2018-03-25 21:02:59 -<==      Total: 1
+2018-03-25 21:02:59 -Started TestDemo in 33.247 seconds (JVM running for 35.386)
+2018-03-25 21:03:00 -清除SpringContextHolder中的ApplicationContext:org.springframework.web.context.support.GenericWebApplicationContext@6f19ac19: startup date [Sun Mar 25 21:02:28 CST 2018]; root of context hierarchy
